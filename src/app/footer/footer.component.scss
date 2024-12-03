@@ -1,0 +1,19 @@
+footer {
+  background-color: #013833;
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  padding: 15px;
+  font-size: 12px;
+  align-items: center;
+  .right-side{
+    font-size: 14px;
+    span{
+      font-size: 12px;
+      margin: 0 5px;
+    }
+    a {
+      color: #ffffffa6;
+    }
+  }
+}
